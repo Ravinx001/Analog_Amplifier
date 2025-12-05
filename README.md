@@ -21,6 +21,11 @@
 
 The system integrates three critical stages: a high-pass RC filter to eliminate unwanted low-frequency noise and DC components, a common-emitter BJT amplifier stage for significant voltage gain, and a low-pass RC filter to suppress high-frequency interference—resulting in a clean, powerful analog output.
 
+<div align="center">
+  <img src="https://github.com/Ravinx001/Analog_Amplifier/blob/main/images/Circuit_Schematic_Diagram.jpg?raw=true" alt="Circuit Schematic Diagram" width="45%">
+  <img src="https://github.com/Ravinx001/Analog_Amplifier/blob/main/images/Physical_View_of_Circuit.jpg?raw=true" alt="Physical Circuit Implementation" width="45%">
+</div>
+
 ---
 
 ## ✨ Key Features & Benefits
@@ -235,6 +240,30 @@ For Low-Pass: frequencies below fc pass through
 - **Frequency Response Test:** Use function generator and oscilloscope
 - **Gain Measurement:** Compare input/output amplitudes
 - **THD Analysis:** Measure harmonic distortion at various input levels
+
+### 📊 Test Results & Measurements
+
+<div align="center">
+  <img src="https://github.com/Ravinx001/Analog_Amplifier/blob/main/images/image1.png?raw=true" alt="Test Result 1" width="30%">
+  <img src="https://github.com/Ravinx001/Analog_Amplifier/blob/main/images/image2.png?raw=true" alt="Test Result 2" width="30%">
+  <img src="https://github.com/Ravinx001/Analog_Amplifier/blob/main/images/image3.png?raw=true" alt="Test Result 3" width="30%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/Ravinx001/Analog_Amplifier/blob/main/images/image4.png?raw=true" alt="Test Result 4" width="30%">
+  <img src="https://github.com/Ravinx001/Analog_Amplifier/blob/main/images/image5.png?raw=true" alt="Test Result 5" width="30%">
+  <img src="https://github.com/Ravinx001/Analog_Amplifier/blob/main/images/image6.png?raw=true" alt="Test Result 6" width="30%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/Ravinx001/Analog_Amplifier/blob/main/images/image7.png?raw=true" alt="Test Result 7" width="30%">
+  <img src="https://github.com/Ravinx001/Analog_Amplifier/blob/main/images/image8.png?raw=true" alt="Test Result 8" width="30%">
+  <img src="https://github.com/Ravinx001/Analog_Amplifier/blob/main/images/image9.png?raw=true" alt="Test Result 9" width="30%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/Ravinx001/Analog_Amplifier/blob/main/images/image10.png?raw=true" alt="Test Result 10" width="45%">
+</div>
 
 ---
 
