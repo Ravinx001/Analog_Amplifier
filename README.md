@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🔊 Analog Audio Amplifier System</h1>
+  <h1>🔊 Analog Signal Amplifier System</h1>
   
   ### 🎵 High-Fidelity BJT-Based Audio Amplification Circuit with Active Filtering
   
@@ -17,9 +17,9 @@
 
 ## 🎯 Project Overview
 
-**Analog Audio Amplifier System** is a professionally designed analog electronics project that demonstrates the fundamental principles of audio signal processing and amplification. This circuit combines precision filtering with transistor-based amplification to deliver clean, amplified audio signals suitable for various audio applications. Built using discrete components and BJT technology, this project showcases classic analog design techniques while achieving modern performance standards.
+**Analog Signal Amplifier System** is a professionally designed analog electronics project that demonstrates the fundamental principles of analog signal processing and amplification. This circuit combines precision filtering with transistor-based amplification to deliver clean, amplified analog signals suitable for various analog applications. Built using discrete components and BJT technology, this project showcases classic analog design techniques while achieving modern performance standards.
 
-The system integrates three critical stages: a high-pass RC filter to eliminate unwanted low-frequency noise and DC components, a common-emitter BJT amplifier stage for significant voltage gain, and a low-pass RC filter to suppress high-frequency interference—resulting in a clean, powerful audio output.
+The system integrates three critical stages: a high-pass RC filter to eliminate unwanted low-frequency noise and DC components, a common-emitter BJT amplifier stage for significant voltage gain, and a low-pass RC filter to suppress high-frequency interference—resulting in a clean, powerful analog output.
 
 ---
 
@@ -154,32 +154,6 @@ Biasing network ensures consistent operation across temperature variations and c
 | **THD (Total Harmonic Distortion)** | <5% | At moderate input levels |
 
 </div>
-
----
-
-## 📁 Repository Structure
-
-```
-Analog_Amplifier/
-├── 📄 Project_Report.pdf         # Comprehensive technical documentation
-├── 📄 README.md                  # This file
-├── 📄 LICENSE                    # Apache License 2.0
-├── 📁 schematics/                # Circuit diagrams and PCB layouts
-│   ├── circuit_diagram.png       # Complete circuit schematic
-│   ├── pcb_layout.png           # PCB design files
-│   └── simulation_results.png   # SPICE simulation outputs
-├── 📁 datasheets/                # Component datasheets
-│   ├── BC547_datasheet.pdf      # Transistor specifications
-│   └── component_specs.pdf      # Other component information
-├── 📁 calculations/              # Design calculations and analysis
-│   ├── gain_calculations.pdf    # Amplifier gain derivations
-│   ├── filter_design.pdf        # RC filter frequency calculations
-│   └── biasing_analysis.pdf     # Q-point and stability analysis
-└── 📁 testing/                   # Test results and measurements
-    ├── frequency_response.csv   # Measured frequency characteristics
-    ├── oscilloscope_captures/   # Waveform images
-    └── performance_data.xlsx    # Comprehensive test data
-```
 
 ---
 
@@ -325,7 +299,7 @@ Contributions, improvements, and suggestions are welcome! Whether it's circuit o
 
 ## 📄 License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
